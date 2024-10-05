@@ -1,0 +1,33 @@
+2024-10-05 16:44:15	cf7b7eca-5052-4e37-9a24-f3c0da092866	newError is not defined	ReferenceError: newError is not defined
+    at origin (C:\Users\ws_htu1587\Documents\MERN\backend\config\corsOptions.js:7:7)
+    at C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\ws_htu1587\Documents\MERN\backend\middleware\logger.js:25:5)
+2024-10-05 16:44:39	765f6fc9-9a04-464e-8c93-f387ac38595c	newError is not defined	ReferenceError: newError is not defined
+    at origin (C:\Users\ws_htu1587\Documents\MERN\backend\config\corsOptions.js:7:7)
+    at C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\ws_htu1587\Documents\MERN\backend\middleware\logger.js:25:5)
+2024-10-05 16:44:39	b4864ec1-54ee-4c7d-960a-82453389daf5	newError is not defined	ReferenceError: newError is not defined
+    at origin (C:\Users\ws_htu1587\Documents\MERN\backend\config\corsOptions.js:7:7)
+    at C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\cors\lib\index.js:204:7)
+    at Layer.handle [as handle_request] (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ws_htu1587\Documents\MERN\backend\node_modules\express\lib\router\index.js:280:10)
+    at logger (C:\Users\ws_htu1587\Documents\MERN\backend\middleware\logger.js:25:5)
